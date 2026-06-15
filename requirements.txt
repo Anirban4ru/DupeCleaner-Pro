@@ -1,0 +1,5 @@
+PyQt6>=6.4.0
+Pillow>=9.0.0
+ImageHash>=4.3.0
+videohash>=1.0.0
+pyinstaller>=5.0.0
